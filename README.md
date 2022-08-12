@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimaSolovev
 - 👀 I’m interested in java and want to be it engeneer 
-- 🌱 I’m currently learning java and js
+- 🌱 I’m currently learning java and android
 - 💞️ I’m looking to collaborate on ... any help are welcome ;)
 - 📫 How to reach me soloveid87@mail.ru
 
